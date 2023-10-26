@@ -1,4 +1,4 @@
-# teach-byte
+# tech-byte
 ##ABSTRACT
 ###In spite of technological advancements, the farm productivity of Indian agriculture is still on the
 lower side. The underlying reason for poor farm productivity in India is due to the inefficient usage
